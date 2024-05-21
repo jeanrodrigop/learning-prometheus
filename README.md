@@ -57,3 +57,7 @@ $ docker run --name zabbix-web-nginx-mysql -t -e ZBX_SERVER_HOST="zabbix-server-
 <h1 align="center">
     <img alt="grafana-hosts" title="grafana-hosts" src="./img/grafana-hosts.png" width="75%" heigth="75%" />
 </h1>
+
+<hr>
+
+Jean Rodrigo
